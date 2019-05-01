@@ -8,6 +8,6 @@ COMMANDS
 * apt install nano
 * nano nomer.txt
 * isi nomer.txt dengan nomer korban
-* python2 spamcall.py nomer.txt
+* python2 sc.py nomer.txt
 
 DONE!!
