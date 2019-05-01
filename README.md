@@ -3,7 +3,7 @@ COMMANDS
 * apt update && apt upgrade
 * apt install python2 git -y
 * git clone https://github.com/sdmarsmunn/SC
-* cd SpamCall 
+* cd SC 
 * pip2 install requests
 * apt install nano
 * nano nomer.txt
