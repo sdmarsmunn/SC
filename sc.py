@@ -1,7 +1,7 @@
 print("""\
    __  __________  __
   /  |/  /  _/ _ \/ / | NAMA : SC
- / /|_/ // // , _/_/  | Author: Sadam AM
+ / /|_/ // // , _/_/  | Author: Sadam
 /_/  /_/___/_/|_(_)   | TEAM : DPP TEAM
 """)
 import thread
